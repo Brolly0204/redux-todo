@@ -1,4 +1,4 @@
-### redux-todo
+# redux-todo
 
 ## Available Scripts
 
